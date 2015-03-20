@@ -1,3 +1,3 @@
-# novella-owners-manual
+# Novella Owner's Manual
 Owner's Manual for Novella
  
