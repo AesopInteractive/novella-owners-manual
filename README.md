@@ -2,5 +2,5 @@
  
 Includes:
 - A manual (index.html)
-- a child theme
+- A child theme
 - Dev tools 
