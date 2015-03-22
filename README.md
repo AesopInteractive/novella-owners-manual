@@ -1,3 +1,6 @@
 # Novella Owner's Manual
-Owner's Manual for Novella
  
+Includes:
+- A manual (index.html)
+- a child theme
+- Dev tools 
